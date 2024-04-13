@@ -6,17 +6,17 @@
 
  2-Clonez ce dépôt GitHub sur votre machine locale en utilisant la commande suivante :
 
-#### git clone https://github.com/votre_utilisateur/scraping-et-analyse-articles.git
+####          git clone https://github.com/votre_utilisateur/scraping-et-analyse-articles.git
 3-Accédez au répertoire du projet :
-#### cd scraping-et-analyse-articles
+####          cd scraping-et-analyse-articles
 4-Installez les dépendances en exécutant la commande suivante :
-#### pip install -r requirements.txt
+####          pip install -r requirements.txt
 ## Utilisation
 1-Assurez-vous que vous avez Python et toutes les dépendances installées.
 
 2-Exécutez le script en utilisant la commande suivante :
 
-#### python main.py
+####          python main.py
 3-Le script récupérera les données à partir de plusieurs sources en ligne, effectuera l'analyse et affichera les comptages des articles dans chaque domaine ainsi que le nombre d'articles avec différents types de nouvelles.
 
 4-Les résultats seront également enregistrés dans un fichier CSV nommé articles.csv.
