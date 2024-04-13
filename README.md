@@ -33,8 +33,8 @@ Les résultats seront également enregistrés dans un fichier CSV nommé article
 ## Sources de données
 Ce script récupère des données à partir des sources suivantes :
 
-Norumors
-Fatabyyano
-Verify-Sy
-Auteur
+##### Norumors
+##### Fatabyyano
+##### Verify-Sy
+## Auteur
 Ce projet a été développé par Votre Nom.
