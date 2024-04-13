@@ -37,4 +37,4 @@ Ce script récupère des données à partir des sources suivantes :
 ##### Fatabyyano
 ##### Verify-Sy
 ## Auteur
-Ce projet a été développé par Votre Nom.
+Ce projet a été développé par Djeghdjegh Sara,M'ziane houda,Makeri Atika.
